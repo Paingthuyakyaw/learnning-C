@@ -4,3 +4,9 @@
 
 - Learn language Syntax
 - Basic Input & Output
+
+### Day 2
+
+- operator
+- control structure
+- looping Logic
